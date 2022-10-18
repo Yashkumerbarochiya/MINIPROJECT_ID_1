@@ -1,0 +1,19 @@
+in XAMPP you must be a change a one setting for the viwe website fully working
+
+1. OPEN THE XAMPP
+2. On Apache 'Confing' BUTTON > PHP (php.ini) Click on them
+3.  then one file open in this file you find a 
+
+;extension=gd  
+LIKE THIS 
+remove the semicolon
+Thay conver like this 
+extension=gd
+
+;extension=gd  --> extension=gd  
+
+
+
+AND SAVE IT FILE AND RESTART YOU XAMPP
+
+THANK YOU.
